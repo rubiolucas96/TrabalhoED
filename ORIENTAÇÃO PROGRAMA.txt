@@ -1,0 +1,5 @@
+Antes de abrir/rodar o programa: 
+
+Colocar a pasta "TEMP" no disco C
+e criar na seguinte rota "C:\Users\Nome do usuario" a pasta BDAlunos.
+OBS: no caso do "Nome do usuario" colocar o nome do seu pc, no meu caso o nome é "Lucas".
